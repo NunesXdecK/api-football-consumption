@@ -1,0 +1,18 @@
+export const dashboardLabels = {
+    search: 'Pesquisar',
+    teamName: 'Nome do time',
+    searchCountry: 'Pesquise o pais',
+    searchSeason: 'Pesquise a temporada',
+    searchLeague: 'Pesquise a liga',
+    vld: 'Vítorias/derrotas/empates',
+    vldOf: ' de ',
+    vldMatches: ' partidas:',
+    formationMostUsed: 'Formação mais usada, no total de ',
+    goals: 'Gols',
+    goalsPerTime: 'Gols por tempo de jogo',
+    gameTime: 'Tempo de jogo',
+    players: 'Jogadores',
+    name: 'Nome',
+    age: 'Idade',
+    nationality: 'Nacionalidade',
+}
